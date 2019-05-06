@@ -8,6 +8,10 @@
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "D", "Sequence": 4, "ValueCalibrationMin": 10000, "ValueCalibrationMax": 1000000 },
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "C", "Sequence": 3, "ValueCalibrationMin": 1000, "ValueCalibrationMax": 10000 },
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "E", "Sequence": 5, "ValueCalibrationMin": 100000, "ValueCalibrationMax": 10000000 },
-    
+    { "id": 1234567891234567, "Axis": "Y", "AxisValue": "1", "Sequence": 1, "ValueCalibrationMin": 0.1, "ValueCalibrationMax": 1 },
+    { "id": 1234567891234567, "Axis": "Y", "AxisValue": "2", "Sequence": 2, "ValueCalibrationMin": 1, "ValueCalibrationMax": 10 },
+    { "id": 1234567891234567, "Axis": "Y", "AxisValue": "5", "Sequence": 5, "ValueCalibrationMin": 1000, "ValueCalibrationMax": 10000 },
+    { "id": 1234567891234567, "Axis": "Y", "AxisValue": "4", "Sequence": 4, "ValueCalibrationMin": 100, "ValueCalibrationMax": 1000 },
+    { "id": 1234567891234567, "Axis": "Y", "AxisValue": "3", "Sequence": 3, "ValueCalibrationMin": 10, "ValueCalibrationMax": 100 },
   ]
 }
