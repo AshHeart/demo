@@ -1,7 +1,8 @@
 {
   "RiskMatrix	": [
     { "id": 1234567891234567, "AxisXSize": 5, "AxisYSize": 5, "AxisXDesc": "Damage Factor", "AxisYDesc": "Consequence of failure" }
-  "RiskMatrixAxisValues	": [
+  ],
+  "RiskMatrixAxisValues": [
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "A", "Sequence": 1, "ValueCalibrationMin": 10, "ValueCalibrationMax": 100 },
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "B", "Sequence": 2, "ValueCalibrationMin": 100, "ValueCalibrationMax": 1000 },
     { "id": 1234567891234567, "Axis": "X", "AxisValue": "D", "Sequence": 4, "ValueCalibrationMin": 10000, "ValueCalibrationMax": 1000000 },
