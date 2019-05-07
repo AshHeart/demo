@@ -16,8 +16,31 @@
       { "id": 1234567891234567, "Axis": "Y", "AxisValue": "3", "Sequence": 3, "ValueCalibrationMin": 10, "ValueCalibrationMax": 100 }
     ],
     "RiskMatrixLegend": [
-      { "id": 1234567891234567, "LegendDesc": "Release Rate v/s Damage Factor @RBI Date", "LegendColor": "FF0000", "Sequence": 1 },
-      { "id": 1234567891234567, "LegendDesc": "Release Rate v/s Damage Factor @PlanDate", "LegendColor": "00FF00", "Sequence": 2 }
+      { "id": 1234567891234567, "LegendDesc": "Release Rate v/s Damage Factor @RBI Date", "LegendColor": "A569BD", "Sequence": 1 },
+      { "id": 1234567891234567, "LegendDesc": "Release Rate v/s Damage Factor @PlanDate", "LegendColor": "000FFF", "Sequence": 2 }
+    ],
+    "RiskMatrixDiagonalRange": [
+      { "id": 1234567891234567, 
+        "RangeDesc": "High", 
+        "RangeColor": "FF0000", 
+        "Sequence": 1, 
+        "RangeXCoordinates": [1100, 10000], 
+        "RangeYCoordinates": [80, 1000000]
+      },
+      { "id": 1234567891234567, 
+        "RangeDesc": "High", 
+        "RangeColor": "FF0000", 
+        "Sequence": 1, 
+        "RangeXCoordinates": [1100, 10000], 
+        "RangeYCoordinates": [80, 1000000]
+      },
+      { "id": 1234567891234567, 
+        "RangeDesc": "High", 
+        "RangeColor": "FF0000", 
+        "Sequence": 1, 
+        "RangeXCoordinates": [1100, 10000], 
+        "RangeYCoordinates": [80, 1000000]
+      }
     ]
   }
 }
