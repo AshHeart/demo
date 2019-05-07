@@ -24,8 +24,8 @@
         "RangeDesc": "High", 
         "RangeColor": "FF0000", 
         "Sequence": 1, 
-        "RangeXCoordinates": [1100, 10000], 
-        "RangeYCoordinates": [80, 1000000]
+        "RangeXCoordinates": [1100, 100], 
+        "RangeYCoordinates": [80, 1000]
       },
       { "id": 1234567891234567, 
         "RangeDesc": "High", 
