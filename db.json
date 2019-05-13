@@ -6,7 +6,7 @@
     "RiskMatrixAxisValues": [
       { "id": 1234567891234567, "Axis": "X", "AxisValue": "A", "Sequence": 1, "ValueCalibrationMin": 10, "ValueCalibrationMax": 100 },
       { "id": 1234567891234567, "Axis": "X", "AxisValue": "B", "Sequence": 2, "ValueCalibrationMin": 100, "ValueCalibrationMax": 1000 },
-      { "id": 1234567891234567, "Axis": "X", "AxisValue": "D", "Sequence": 4, "ValueCalibrationMin": 10000, "ValueCalibrationMax": 1000000 },
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "D", "Sequence": 4, "ValueCalibrationMin": 10000, "ValueCalibrationMax": 100000 },
       { "id": 1234567891234567, "Axis": "X", "AxisValue": "C", "Sequence": 3, "ValueCalibrationMin": 1000, "ValueCalibrationMax": 10000 },
       { "id": 1234567891234567, "Axis": "X", "AxisValue": "E", "Sequence": 5, "ValueCalibrationMin": 100000, "ValueCalibrationMax": 10000000 },
       { "id": 1234567891234567, "Axis": "Y", "AxisValue": "1", "Sequence": 1, "ValueCalibrationMin": 0.1, "ValueCalibrationMax": 1 },
