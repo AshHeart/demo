@@ -24,22 +24,22 @@
         "RangeDesc": "High", 
         "RangeColor": "FF0000", 
         "Sequence": 1, 
-        "RangeXCoordinates": [1100, 100], 
-        "RangeYCoordinates": [80, 1000]
+        "RangeXCoordinates": [3000, 1000000], 
+        "RangeYCoordinates": [10000, 50]
       },
       { "id": 1234567891234567, 
-        "RangeDesc": "High", 
-        "RangeColor": "FF0000", 
+        "RangeDesc": "Medium", 
+        "RangeColor": "FFD500", 
         "Sequence": 1, 
-        "RangeXCoordinates": [1100, 10000], 
-        "RangeYCoordinates": [80, 1000000]
+        "RangeXCoordinates": [40, 1000000], 
+        "RangeYCoordinates": [10000, 7]
       },
       { "id": 1234567891234567, 
-        "RangeDesc": "High", 
-        "RangeColor": "FF0000", 
+        "RangeDesc": "Low", 
+        "RangeColor": "27FF00", 
         "Sequence": 1, 
-        "RangeXCoordinates": [1100, 10000], 
-        "RangeYCoordinates": [80, 1000000]
+        "RangeXCoordinates": [10, 20000], 
+        "RangeYCoordinates": [60, 0.1]
       }
     ]
   }
