@@ -42,5 +42,22 @@
         "RangeYCoordinates": [60, 0.1]
       }
     ]
+  },
+  "ISO": {
+    "RiskMatrix": [
+      { "id": 9876543214567, "AxisXSize": 5, "AxisYSize": 5, "AxisXDesc": "Risk", "AxisYDesc": "Probability of failure" }
+    ],
+    "RiskMatrixAxisValues": [
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "A", "Sequence": 1, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "B", "Sequence": 2, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "D", "Sequence": 4, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "C", "Sequence": 3, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "X", "AxisValue": "E", "Sequence": 5, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "Y", "AxisValue": "1", "Sequence": 1, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "Y", "AxisValue": "2", "Sequence": 2, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "Y", "AxisValue": "5", "Sequence": 5, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "Y", "AxisValue": "4", "Sequence": 4, "ValueCalibrationMin": "", "ValueCalibrationMax": "" },
+      { "id": 1234567891234567, "Axis": "Y", "AxisValue": "3", "Sequence": 3, "ValueCalibrationMin": "", "ValueCalibrationMax": "" }
+    ]
   }
 }
