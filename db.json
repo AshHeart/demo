@@ -79,5 +79,44 @@
 	"subCategory" : "Reactor"
       }
      ]
+  },
+  "Users": {
+	  "All Users": [
+		{
+		  "fName": "Dave",
+		  "lName": "McCann",
+		  "company": "Sentinel",
+		  "email": "dmccann@sentinelintegrity.com",
+		  "active": true
+		},
+		{
+		  "fName": "Jarret",
+		  "lName": "Reeves",
+		  "company": "AsInt",
+		  "email": "jarret.reeves@asint.net",
+		  "active": true
+		},
+		{
+		  "fName": "Scott",
+		  "lName": "Corey",
+		  "company": "Sentinel",
+		  "email": "SCorey@sentinelintegrity.com",
+		  "active": true
+		},
+		{
+		  "fName": "Chuck",
+		  "lName": "Provost",
+		  "company": "Sentinel",
+		  "email": "cprovost@sentinelintegrity.com",
+		  "active": true
+		},
+		{
+		  "fName": "Jeff",
+		  "lName": "Sweny",
+		  "company": "Bay Star",
+		  "email": "jeff.sweny@baystar.com",
+		  "active": true
+		}
+	]
   }
 }
