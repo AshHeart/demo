@@ -39,40 +39,44 @@
   "Equipment": {
    "AllEquipments": [
       {
-	"id"         : "2384.289.02",
-	"desc"       : "FCC GAS PLANT DEBUT TOWER",
-	"operator"   : "HollyFrontier",
-	"site"       : "Cheyenne",
-	"area"       : "1300-FCC Gas Plant",
-	"category"   : "Vessel",
-	"subCategory": "Reactor"
+	"turnaroundID": 1233,      
+	"id"          : "2384.289.02",
+	"desc"        : "FCC GAS PLANT DEBUT TOWER",
+	"operator"    : "HollyFrontier",
+	"site"        : "Cheyenne",
+	"area"        : "1300-FCC Gas Plant",
+	"category"    : "Vessel",
+	"subCategory" : "Reactor"
       },
        {
-	"id"         : "VES36450",
-	"desc"       : "Offsite Flare KO Drum",
-	"operator"   : "Exxon",
-	"site"       : "Torrence",
-	"area"       : "FCC",
-	"category"   : "Vessel",
-	"subCategory": "Tower"
+	"turnaroundID": 1233,
+	"id"          : "VES36450",
+	"desc"        : "Offsite Flare KO Drum",
+	"operator"    : "Exxon",
+	"site"        : "Torrence",
+	"area"        : "FCC",
+	"category"    : "Vessel",
+	"subCategory" : "Tower"
       },
       {
-	"id"         : "E2113",
-	"desc"       : "Propane Caustic Treater",
-	"operator"   : "Motiva",
-	"site"       : "Port Arthur",
-	"area"       : "Alky",
-	"category"   : "Exchanger",
-	"subCategory": "Shell and Tube"
+	"turnaroundID": 1233,
+	"id"          : "E2113",
+	"desc"        : "Propane Caustic Treater",
+	"operator"    : "Motiva",
+	"site"        : "Port Arthur",
+	"area"        : "Alky",
+	"category"    : "Exchanger",
+	"subCategory" : "Shell and Tube"
       },
       {
-	"id"         : "C-1402B",
-	"desc"       : "RX Products Trim Cooler",
-	"operator"   : "Motiva",
-	"site"       : "Port Arthur",
-	"area"       : "Alky",
-	"category"   : "Vessel",
-	"subCategory": "Reactor"
+	"turnaroundID": 1233,
+	"id"          : "C-1402B",
+	"desc"        : "RX Products Trim Cooler",
+	"operator"    : "Motiva",
+	"site"        : "Port Arthur",
+	"area"        : "Alky",
+	"category"    : "Vessel",
+	"subCategory" : "Reactor"
       }
      ]
   }
