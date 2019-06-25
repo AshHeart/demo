@@ -118,5 +118,18 @@
 		  "active": true
 		}
 	]
+  },
+  "ShiftLog": { 
+	"Data": [
+	    {
+		"createdBy"   : "Dave McCann",
+		"createdOn"   : "Jan 12, 2019",
+		"comment"     : "Need to address liner on v100",
+		"nextShift"   : "Jarret Reeves",
+		"nextShiftOn" : "Jan 12, 2019"
+		"acknowledged": true,
+		"followUp"    : "Acknowledged and addressed"
+	    }
+	]
   }
 }
