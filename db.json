@@ -131,7 +131,7 @@
   "ShiftLog": { 
 	"Data": [
 	    {
-		"id"          : 1
+		"id"          : 1,
 		"createdBy"   : "Dave McCann",
 		"createdOn"   : "Jan 12, 2019",
 		"comment"     : "Need to address liner on v100",
