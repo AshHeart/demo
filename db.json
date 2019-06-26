@@ -143,7 +143,7 @@
 		"workRequest": "Plug tubes",
 		"wReqNum"    : 5779,
 		"dateRec"    : "4/17/2019",
-		"status"     : "Approved"
+		"status"     : "Approved",
 		"dateAppr"   : "4/17/2019",
 		"comments"   : "Re-tube is possible"
 	    },
@@ -152,7 +152,7 @@
 		"workRequest": "corrosion pitting",
 		"wReqNum"    : 8787,
 		"dateRec"    : "4/18/2019",
-		"status"     : "Rejected"
+		"status"     : "Rejected",
 		"dateAppr"   : "",
 		"comments"   : "Re-tube is possible"
 	    },
@@ -161,7 +161,7 @@
 		"workRequest": "Cracked weld - bussel plate",
 		"wReqNum"    : 5822,
 		"dateRec"    : "4/18/2019",
-		"status"     : "Deferred"
+		"status"     : "Deferred",
 		"dateAppr"   : "",
 		"comments"   : "Re-tube is possible"
 	    },
