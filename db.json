@@ -145,6 +145,7 @@
   "WorkRequests": {
 	"Data": [
 	    {
+		"id"         : 1,
 		"active"     : true,
 		"workRequest": "Plug tubes",
 		"wReqNum"    : 5779,
@@ -154,6 +155,7 @@
 		"comments"   : "Re-tube is possible"
 	    },
 	    {
+		"id"         : 2,
 		"active"     : true,
 		"workRequest": "corrosion pitting",
 		"wReqNum"    : 8787,
@@ -163,6 +165,7 @@
 		"comments"   : "Re-tube is possible"
 	    },
 	    {
+		"id"         : 3,
 		"active"     : true,
 		"workRequest": "Cracked weld - bussel plate",
 		"wReqNum"    : 5822,
