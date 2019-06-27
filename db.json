@@ -171,10 +171,8 @@
 		"dateAppr"   : "",
 		"comments"   : "Re-tube is possible"
 	    }
-	]
-  },
-  "Activities": {
-	"Data": [
+	],
+        "Data2": [
 	    {
 		"active"     : true,
 		"activity"   : "ACFM",
