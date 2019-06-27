@@ -172,6 +172,28 @@
 		"comments"   : "Re-tube is possible"
 	    }
 	]
+  },
+  "Activities": {
+	"Data": [
+	    {
+		"active"     : true,
+		"activity"   : "ACFM",
+		"description": "Some Description",
+		"assignedTo" : "Scott Corey",
+		"group"      : "Shell",
+		"dueDate"    : "11/7/2019",
+		"order"      : "1"
+	    },
+	    {
+		"active"     : true,
+		"activity"   : "UT",
+		"description": "Some More Descriptions",
+		"assignedTo" : "Jarret Reeves",
+		"group"      : "Channel",
+		"dueDate"    : "11/7/19,
+		"order"      : "1"
+	    },
+	]
   }
 		
 }
